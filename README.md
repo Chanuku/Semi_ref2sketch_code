@@ -40,19 +40,19 @@ https://github.com/Chanuku/4skst
 ## Dataset directories structure
     |   \---[dataroot]
     |       +---testA
-    |       |       +---test_input1.png
-    |       |       +---test_input2.png
+    |       |       +---test_color1.png
+    |       |       +---test_color2.png
     |       +---testB
     |       |       +---test_groundtruth1.png #not necessary for testing
     |       |       +---test_groundtruth2.png #not necessary for testing
     |       +---testC
-    |       |       +---style1.png
-    |       |       +---style2.png
+    |       |       +---stylesketch1.png
+    |       |       +---stylesketch2.png
     |       +---trainA
-    |       |       +---train_input1.png
-    |       |       +---train_input2.png
+    |       |       +---train_color1.png
+    |       |       +---train_color2.png
     |       +---trainB
-    |       |       +---train_groundtruth1.png
-    |       |       +---train_groundtruth2.png
+    |       |       +---train_sketch1.png
+    |       |       +---train_sketch2.png
     
     #dataset doesn't have to be paired, model can be trained with unpaired dataset
