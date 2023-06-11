@@ -19,7 +19,7 @@ Project page: https://github.com/Chanuku/Semi_ref2sketch
                      --dataroot ./datasets/[datafoler_name] \
 
 * Download the pretrained model from google drive to train and test the model (pre-trained weights for HED and contrastive learning). After download, unzip to the checkpoints folder.
-https://drive.google.com/drive/folders/1OvU4pPVTFk07Kp5qKS6MNlsKhoUUckcR?usp=sharing
+https://drive.google.com/file/d/1YbddMxgIO57gSwTvYxt-C4QraM2AAgVW/view?usp=sharing
 * To can change the other settings such as gpu_ids, epochs and etc by adding the arguments. Check **base_options.py** and **train_options.py** in options folder. 
 * To understand hierarchy of dataset, see **Dataset directories structure** below. 
 
