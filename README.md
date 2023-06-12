@@ -8,7 +8,7 @@ This is official implementation of the paper **"Semi-supervised Reference based 
 
 Journal: ACM TOG\
 Conference: SIGGRAPH 2023\
-Project page: https://github.com/Chanuku/Semi_ref2sketch
+Project page: https://chanuku.github.io/Semi_ref2sketch/
 
 
 
