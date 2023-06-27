@@ -1,4 +1,4 @@
-## Semi-supervised Reference based sketch extraction using a contrastive learning framework
+## Semi-supervised Reference based sketch extraction using a contrastive learning framework [SIGGRAPH 2023]
 
 
 This is official implementation of the paper **"Semi-supervised Reference based sketch extraction using a contrastive learning framework"**
