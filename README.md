@@ -29,7 +29,14 @@ https://drive.google.com/file/d/1YbddMxgIO57gSwTvYxt-C4QraM2AAgVW/view?usp=shari
                      --model unpaired \
                      --epoch 100 \
                      --dataroot ./datasets/ref_unpair \
+## Output examples
 
+<img src="datasets/ref_unpair/testA/sample1.png" width="200px"><img src="samples/sample1.png" width="200px"><img src="samples/sample2.png" width="200px"><img src="samples/sample3.png" width="200px">
+
+
+<img src="samples/gundam_color.gif" width="300px"><img src="samples/gundam_ink.gif" width="300px"><img src="samples/gundam_thin.gif" width="300px">
+
+Test images are from 4SKST dataset and @GundamInfo official youtube channel
 
 
 ## Dataset
