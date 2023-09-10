@@ -464,6 +464,9 @@ class ref_unpair(nn.Module):
         else:
             content_output = content_cs
 
+        if self.nblk and self.status !='ref_unpair_cbam_cat':
+            content_cs = self.res1(content_output)
+
 
         content_output = self.dec(content_output)
 
